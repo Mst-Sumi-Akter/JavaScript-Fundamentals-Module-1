@@ -1,4 +1,4 @@
-## 1. Declaration type
+I'm## 1. Declaration type
 * 🔓 var ➡️ Old, loose, jhamela beshi (use korben na).
 
 * 🔄 let ➡️ Value change kora jay (let x = 1; x = 2;).
@@ -30,3 +30,19 @@
 * Object: Curly braces {} er vethor key-value pair hisebe real-life data store kora hoy. (e.g., {name: "Ali", age: 20})
 * Array: Square brackets [] er vethor serial onujayi onugulo data-r list rakha hoy. (e.g., ["Red", "Green", "Blue"])
 * Function: JavaScript-e jekono kajer block-keo variable-er vethor
+
+
+## Operator:
+An operator is a symbol used to perform an operation on values or variables.
+
+Example: a + b
+Here, + is an operator.
+
+## Types of Operators:
+Arithmetic: +, -, *, /, %
+Relational: >, <, ==, !=
+Logical: &&, ||, !
+Assignment: =, +=, -=
+Increment/Decrement: ++, --
+Conditional: ?:
+
