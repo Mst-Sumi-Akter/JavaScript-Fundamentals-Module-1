@@ -17,12 +17,12 @@ I'm## 1. Declaration type
 * BigInt ➡️ Bishal shonkhya ➡️ 100n
 * Symbol ➡️ Unique ID ➡️ Symbol() 
 
-* String: Text ba lekha bojhate single ba double quote-er vethor rakha hoy. (e.g., "Hello")
-* Number: Integer (purno shonkhya) abong Decimal (doshomik) shonkhya dharon kore. (e.g., 45, 9.99)
+* String: Text ba lekha bojhate single ba double quote-er vethor rakha hoy. 
+* Number: Integer (purno shonkhya) abong Decimal (doshomik) shonkhya dharon kore. 
 * Boolean: Shudhumatro logical true (shottyo) athoba false (mittha) man dharon kore.
 * Undefined: Variable declare korar por jodi kono value assign na kora hoy, tobe tar default man hoy undefined.
 * Null: Variable-e manually kono khali ba empty value nirdesh korar jonno eiti byabohar kora hoy.
-* BigInt: Normal number limit-er cheye boro kono purno shonkhya dharon korar jonno shonkhyar sheshe n jog kora hoy. (e.g., 9007n)
+* BigInt: Normal number limit-er cheye boro kono purno shonkhya dharon korar jonno shonkhyar sheshe n jog kora hoy.
 * Symbol: Kono object property-r jonno ekti unique ba ononno identifier toiri korte byabohar kora hoy.
 
 ## 2. Non-Primitive (গ্রুপ মান) 
