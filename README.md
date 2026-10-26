@@ -5,7 +5,7 @@
 
 * 🔒 const ➡️ Value change kora jay na (const pi = 3.14;).
 
-##Type of variable:
+## Type of variable:
 
 *  1. Primitive Types
 
