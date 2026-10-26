@@ -7,7 +7,7 @@
 
 ## Type of variable:
 
-*  1. Primitive Types
+* ## 1. Primitive Types
 
 * String ➡️ Text / Lekha ➡️ "Hello"
 * Number ➡️ Shonkhya ➡️ 25 ba 9.99
