@@ -1,4 +1,5 @@
-## 1. Declaration type
+## 1. Declaration type :
+
 * 🔓 var ➡️ Old, loose, jhamela beshi (use korben na).
 
 * 🔄 let ➡️ Value change kora jay (let x = 1; x = 2;).
